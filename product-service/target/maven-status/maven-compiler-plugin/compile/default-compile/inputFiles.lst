@@ -1,0 +1,7 @@
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/ProductServiceApplication.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/controller/ProductController.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/dbo/ProductRequest.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/dbo/ProductResponse.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/model/Product.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/repository/ProductRepositroy.java
+/Users/sriharsha/IdeaProjects/microservies-parent/product-service/src/main/java/com/springproject/productservice/service/ProductService.java

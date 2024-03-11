@@ -5,12 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b225ca8a-b80f-48d2-9593-a3b34420e522" name="Changes" comment="First commit of the project">
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/dto/InventoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/dto/InventoryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/controller/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/controller/InventoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/repository/InventoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/repository/InventoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/springboot/inventoryservice/inventoryservice/service/InventoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/inventory-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/inventory-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/inventory-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/inventory-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/surefire-reports/TEST-com.springboot.inventoryservice.inventoryservice.InventoryServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/surefire-reports/TEST-com.springboot.inventoryservice.inventoryservice.InventoryServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/surefire-reports/com.springboot.inventoryservice.inventoryservice.InventoryServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/surefire-reports/com.springboot.inventoryservice.inventoryservice.InventoryServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/ddo/OrderLineItemsDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/dto/OrderLineItemsDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/ddo/OrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/dto/OrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/service/orderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/springboot/orderservice/service/orderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/ddo/OrderLineItemsDto$OrderLineItemsDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/ddo/OrderLineItemsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/ddo/OrderRequest$OrderRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/ddo/OrderRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/service/orderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/springboot/orderservice/service/orderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/order-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/order-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/surefire-reports/TEST-com.springboot.orderservice.OrderServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/surefire-reports/TEST-com.springboot.orderservice.OrderServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/surefire-reports/com.springboot.orderservice.OrderServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/surefire-reports/com.springboot.orderservice.OrderServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/product-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/product-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.springproject.productservice.ProductServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.springproject.productservice.ProductServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/com.springproject.productservice.ProductServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/com.springproject.productservice.ProductServiceApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -45,7 +99,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -57,41 +111,44 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "/Users/sriharsha/IdeaProjects/microservies-parent/inventory-service",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/sriharsha/IdeaProjects/microservies-parent/inventory-service/src/main/java/com/microcservice/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.33930254",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sriharsha/IdeaProjects/microservies-parent/inventory-service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sriharsha/IdeaProjects/microservies-parent/inventory-service/src/main/java/com/microcservice/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33930254&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inventory-service" />
       <recent name="$PROJECT_DIR$/product-service" />
       <recent name="$PROJECT_DIR$/order-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springboot.orderservice.dto" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -99,7 +156,22 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.InventoryServiceApplication">
+  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
+    <configuration name="InventoryServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.inventoryservice.inventoryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.springboot.inventoryservice.inventoryservice" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot.inventoryservice.inventoryservice.InventoryServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="product-service" />
       <extension name="coverage">
@@ -165,6 +237,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.InventoryServiceApplication" />
+        <item itemvalue="JUnit.InventoryServiceApplicationTests" />
         <item itemvalue="JUnit.ProductServiceApplicationTests" />
       </list>
     </recent_temporary>
@@ -179,7 +252,10 @@
       <updated>1709844523648</updated>
       <workItem from="1709844524700" duration="6341000" />
       <workItem from="1709851817706" duration="6215000" />
-      <workItem from="1709961925110" duration="2349000" />
+      <workItem from="1709961925110" duration="7756000" />
+      <workItem from="1709970783908" duration="4785000" />
+      <workItem from="1710044493566" duration="11462000" />
+      <workItem from="1710121572499" duration="6745000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of the project">
       <option name="closed" value="true" />
@@ -207,6 +283,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="First commit of the project" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit of the project" />
@@ -228,6 +307,11 @@
           <url>file://$PROJECT_DIR$/inventory-service/src/main/java/com/microcservice/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/inventory-service/src/main/java/com/springboot/inventoryservice/inventoryservice/controller/InventoryController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
